@@ -1,0 +1,46 @@
+{
+    "event_tv_channel": [
+        {
+            "event_name_channel": "Canal 26",
+            "event_image_url": "http://imgfz.com/i/j2Kl3N0.jpeg",
+            "event_type_url": "Exo",
+            "event_url": "http://200.115.193.177/live/26hd-720/chunklist_w889968602.m3u8"
+        },
+        {
+            "event_name_channel": "Panamericana",
+            "event_image_url": "http://imgfz.com/i/RaMBfDn.jpeg",
+            "event_type_url": "Exo",
+            "event_url": "https://cdnhd.iblups.com/hls/ptv2.m3u8"
+        },
+        {
+            "event_name_channel": "Canal 9 AR",
+            "event_image_url": "http://imgfz.com/i/zo0gHT4.jpeg",
+            "event_type_url": "Web",
+            "event_url": "https://player.twitch.tv/?channel=elnuevevivo&player=facebook&autoplay=false&parent=iframe.ly&parent=cdn.iframe.ly&parent=iframely.net&parent=iframely.com&parent=if-cdn.com"
+        },
+        {
+            "event_name_channel": "Tv Peru",
+            "event_image_url": "http://imgfz.com/i/aQBVZjW.jpeg",
+            "event_type_url": "Exo",
+            "event_url": "https://cdnh76.iblups.com/hls/R9WtilpKKB.m3u8"
+        },
+        {
+            "event_name_channel": "Canal NET",
+            "event_image_url": "http://imgfz.com/i/mwqgD6F.jpeg",
+            "event_type_url": "Exo",
+            "event_url": "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8"
+        },
+        {
+            "event_name_channel": "Unitel",
+            "event_image_url": "http://imgfz.com/i/k1tGDVe.jpeg",
+            "event_type_url": "Exo",
+            "event_url": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8"
+        },
+        {
+            "event_name_channel": "America",
+            "event_image_url": "http://imgfz.com/i/jmSvteP.jpeg",
+            "event_type_url": "Exo",
+            "event_url": "https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8"
+        }
+    ]
+}
