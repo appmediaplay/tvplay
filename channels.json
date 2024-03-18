@@ -1,22 +1,22 @@
 {
     "event_tv_channel": [
         {
-            "event_name_channel": "Contraparte",
-            "event_image_url": "https://pbs.twimg.com/profile_images/1491958513282789382/Fi1qVCav_400x400.jpg",
+            "event_name_channel": "Hualla Tv",
+            "event_image_url": "https://radiohualla.com/img/logo.png",
             "event_type_url": "Web",
-            "event_url": "https://contrapartebo.com/"
+            "event_url": "https://radiohualla.com/"
         },
         {
-            "event_name_channel": "Yungas",
-            "event_image_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1200,h=630,fit=crop,f=jpeg/mjEQJ735lOCvObXk/fondo-ytv-con-logo-AR07rvkQyjU5vbnW.png",
+            "event_name_channel": "Positiva",
+            "event_image_url": "https://radiotvpositiva.com/img/logo.png",
             "event_type_url": "Web",
-            "event_url": "https://www.redyungas.com.bo/"
+            "event_url": "https://radiotvpositiva.com/"
         },
         {
-            "event_name_channel": "Tele 15 Coroico",
-            "event_image_url": "http://imgfz.com/i/6ixnHOl.png",
+            "event_name_channel": "Tele Onda 92",
+            "event_image_url": "https://radioonda92fm.com/assets/img/logo.png",
             "event_type_url": "Web",
-            "event_url": "https://radiocoroico.com/"
+            "event_url": "https://radioonda92fm.com/"
         }
     ]
 }
