@@ -1,22 +1,94 @@
 {
     "event_tv_channel": [
-        {
-            "event_name_channel": "Hualla Tv",
-            "event_image_url": "https://radiohualla.com/img/logo.png",
-            "event_type_url": "Web",
-            "event_url": "https://radiohualla.com/"
-        },
-        {
-            "event_name_channel": "Positiva",
-            "event_image_url": "https://radiotvpositiva.com/img/logo.png",
-            "event_type_url": "Web",
-            "event_url": "https://radiotvpositiva.com/"
-        },
-        {
-            "event_name_channel": "Tele Onda 92",
-            "event_image_url": "https://radioonda92fm.com/assets/img/logo.png",
-            "event_type_url": "Web",
-            "event_url": "https://radioonda92fm.com/"
-        }
+	    {
+			"event_name_channel": "ATB",
+			"event_image_url": "http://imgfz.com/i/Qzn5HaO.jpeg", 
+			"event_type_url": "Exo",
+			"event_url": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8"
+		},
+		{
+			"event_name_channel": "Tv Peru",
+			"event_image_url": "http://imgfz.com/i/aQBVZjW.jpeg", 
+			"event_type_url": "Exo",
+			"event_url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8"
+		},
+		{
+			"event_name_channel": "Panamericana",
+			"event_image_url": "http://imgfz.com/i/RaMBfDn.jpeg", 
+			"event_type_url": "Web",
+			"event_url": "https://www.dailymotion.com/embed/video/x774s7s?autoplay=1"
+		},
+		{
+			"event_name_channel": "Canal 9 AR",
+			"event_image_url": "http://imgfz.com/i/JEucIjY.jpeg", 
+			"event_type_url": "Web",
+			"event_url": "https://player.twitch.tv/?channel=elnuevevivo&player=facebook&autoplay=false&parent=iframe.ly&parent=cdn.iframe.ly&parent=iframely.net&parent=iframely.com&parent=if-cdn.com"
+		},
+		{
+			"event_name_channel": "Canal NET",
+			"event_image_url": "http://imgfz.com/i/mwqgD6F.jpeg", 
+			"event_type_url": "Exo",
+			"event_url": "https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8"
+		},
+		{
+			"event_name_channel": "Unitel",
+			"event_image_url": "http://imgfz.com/i/JIRwmfk.jpeg", 
+			"event_type_url": "Exo",
+			"event_url": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8"
+		},
+		{
+			"event_name_channel": "America",
+			"event_image_url": "http://imgfz.com/i/jmSvteP.jpeg", 
+			"event_type_url": "Exo",
+			"event_url": "https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8"
+		},
+		{
+			"event_name_channel": "Red UNO",
+			"event_image_url": "http://imgfz.com/i/PnZhtA2.jpeg", 
+			"event_type_url": "Exo",
+			"event_url": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8"
+		},
+		{
+			"event_name_channel": "RTP Bolivia",
+			"event_image_url": "http://imgfz.com/i/1PBGLxb.jpeg", 
+			"event_type_url": "Exo",
+			"event_url": "https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/RTP/__op/hls-default/__f/index.m3u8"
+		},
+		{
+			"event_name_channel": "Canal 26",
+			"event_image_url": "http://imgfz.com/i/1COdVzN.jpeg", 
+			"event_type_url": "Web",
+			"event_url": "https://www.youtube.com/watch?v=RnTmtVFTSf0"
+		},
+		{
+			"event_name_channel": "Bolivia Tv",
+			"event_image_url": "http://imgfz.com/i/nijZxAt.jpeg", 
+			"event_type_url": "Exo",
+			"event_url": "https://5f2c1b0d880e5.streamlock.net:443/boliviatv2/videoboliviatv2/playlist.m3u8"
+		},
+		{
+			"event_name_channel": "Exitosa Tv",
+			"event_image_url": "http://imgfz.com/i/V8zSAWJ.jpeg", 
+			"event_type_url": "Exo",
+			"event_url": "https://iptv-c9-x-m-mck9-video.cusac.online:50050/exitosa/index.fmp4.m3u8"
+		},
+		{
+			"event_name_channel": "ATV Perú",
+			"event_image_url": "http://imgfz.com/i/OPVqWSN.jpeg", 
+			"event_type_url": "Exo",
+			"event_url": "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8"
+		},
+		{
+			"event_name_channel": "El Trece",
+			"event_image_url": "http://imgfz.com/i/XnDBKJs.jpeg", 
+			"event_type_url": "Exo",
+			"event_url": "https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/index.m3u8"
+		},
+		{
+			"event_name_channel": "Willax Tv",
+			"event_image_url": "http://imgfz.com/i/Y637qGH.jpeg", 
+			"event_type_url": "Web",
+			"event_url": "https://www.dailymotion.com/embed/video/x7x4dgx?autoplay=1"
+		}
     ]
 }
